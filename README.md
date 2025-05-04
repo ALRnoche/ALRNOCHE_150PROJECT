@@ -3,6 +3,8 @@
 **Name:** André Luis R. Noche <br/>
 **Section:** B-1L <br/>
 **Student number:** 2022 - 08891 <br/>
+**Date Started:** December 04, 2023 <br/>
+**Date Accomplished:** December 18, 2023 <br/>
 
 ## Description
 A CMSC 150 project under Sir Jamlech Iram N. Gojo Cruz' lab class that processes .csv data using Quadratic Spline
