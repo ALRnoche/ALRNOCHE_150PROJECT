@@ -1,6 +1,3 @@
-# ALRNOCHE_150PROJECT
-Project description: 
-
 # CMSC 150 Project: CSV Data Calculator
 
 **Name:** André Luis R. Noche <br/>
